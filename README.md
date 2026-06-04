@@ -1,12 +1,12 @@
 # Claude Skills Hub
 
-Uma coleção de Skills personalizadas para o Claude, desenvolvidas para expandir suas capacidades em diversas áreas, como escrita criativa, programação, produtividade, educação, pesquisa e automação.
+A collection of custom Skills for Claude, designed to expand its capabilities across various domains such as creative writing, programming, productivity, education, research, and automation.
 
-## 🎯 Objetivo
+## 🎯 Purpose
 
-Este repositório tem como objetivo reunir Skills de alta qualidade que transformam o Claude em especialistas capazes de executar tarefas específicas com maior eficiência, consistência e precisão.
+This repository aims to gather high-quality Skills that transform Claude into specialized experts capable of performing specific tasks with greater efficiency, consistency, and accuracy.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
 ```text
 Skills/
@@ -34,87 +34,87 @@ Skills/
 └── README.md
 ```
 
-## 🚀 O que são Skills?
+## 🚀 What Are Skills?
 
-Skills são conjuntos de instruções especializadas que permitem ao Claude executar tarefas específicas com maior qualidade e consistência.
+Skills are specialized sets of instructions that enable Claude to perform specific tasks with higher quality and consistency.
 
-Uma Skill pode:
+A Skill can:
 
-* Melhorar a escrita de histórias.
-* Ensinar matérias escolares.
-* Revisar códigos.
-* Criar documentações.
-* Auxiliar em pesquisas.
-* Planejar projetos.
-* Automatizar fluxos de trabalho.
-* E muito mais.
+* Improve story writing.
+* Teach academic subjects.
+* Review code.
+* Create documentation.
+* Assist with research.
+* Plan projects.
+* Automate workflows.
+* And much more.
 
-## 📖 Como Utilizar
+## 📖 How to Use
 
-1. Escolha uma Skill.
-2. Abra a pasta da Skill desejada.
-3. Copie o conteúdo do arquivo principal.
-4. Importe ou configure a Skill no Claude.
-5. Utilize-a em seus projetos.
+1. Choose a Skill.
+2. Open the desired Skill folder.
+3. Copy the contents of the main file.
+4. Import or configure the Skill in Claude.
+5. Use it in your projects.
 
-## 🛠️ Como Criar uma Nova Skill
+## 🛠️ How to Create a New Skill
 
-Cada Skill deve conter:
+Each Skill should include:
 
-* Nome claro e objetivo.
-* Descrição da função.
-* Casos de uso.
-* Limitações.
-* Regras de comportamento.
-* Exemplos de entrada e saída.
+* A clear and descriptive name.
+* A description of its purpose.
+* Use cases.
+* Limitations.
+* Behavioral rules.
+* Input and output examples.
 
-### Estrutura Recomendada
+### Recommended Structure
 
 ```markdown
 ---
-name: Nome da Skill
-description: O que ela faz
+name: Skill Name
+description: What it does
 ---
 
-# Objetivo
+# Purpose
 
-Descreva a função principal.
+Describe the main function.
 
-# Quando usar
+# When to Use
 
-Liste os cenários apropriados.
+List appropriate scenarios.
 
-# Quando não usar
+# When Not to Use
 
-Liste limitações.
+List limitations.
 
-# Regras
+# Rules
 
-Defina o comportamento esperado.
+Define the expected behavior.
 
-# Exemplos
+# Examples
 
-Forneça exemplos de uso.
+Provide usage examples.
 ```
 
-## 🤝 Contribuindo
+## 🤝 Contributing
 
-Contribuições são bem-vindas.
+Contributions are welcome.
 
-Você pode:
+You can:
 
-* Adicionar novas Skills.
-* Melhorar Skills existentes.
-* Corrigir documentação.
-* Compartilhar exemplos de uso.
-* Sugerir novas categorias.
+* Add new Skills.
+* Improve existing Skills.
+* Fix documentation.
+* Share usage examples.
+* Suggest new categories.
 
-## 📜 Licença
+## 📜 License
 
-Este projeto está disponível sob a licença MIT.
+This project is available under the MIT License.
 
-Sinta-se livre para utilizar, modificar e compartilhar as Skills de acordo com os termos da licença.
+Feel free to use, modify, and share the Skills according to the terms of the license.
 
 ---
 
-⭐ Se este repositório foi útil para você, considere deixar uma estrela.
+⭐ If you found this repository useful, consider giving it a star.
