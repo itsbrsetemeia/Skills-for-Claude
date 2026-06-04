@@ -9,27 +9,47 @@ This repository aims to gather high-quality Skills that transform Claude into sp
 ## 📂 Repository Structure
 
 ```text
-Skills/
-│
-├── Writing/
-│   ├── Story_Rewriter/
-│   ├── Worldbuilding_Master/
-│   └── Character_Creator/
-│
-├── Programming/
-│   ├── Code_Reviewer/
-│   ├── Software_Architect/
-│   └── Bug_Hunter/
+SKILL/
 │
 ├── Education/
-│   ├── Math_Tutor/
-│   ├── Study_Coach/
-│   └── Language_Teacher/
+│   ├── language-teacher/
+│   │   └── SKILL.md
+│   │
+│   ├── math-tutor/
+│   │   └── SKILL.md
+│   │
+│   └── study-coach/
+│       └── SKILL.md
 │
 ├── Productivity/
-│   ├── Project_Manager/
-│   ├── Task_Planner/
-│   └── Documentation_Assistant/
+│   ├── documentation-assistant/
+│   │   └── SKILL.md
+│   │
+│   ├── project-manager/
+│   │   └── SKILL.md
+│   │
+│   └── task-planner/
+│       └── SKILL.md
+│
+├── Programming/
+│   ├── bug-hunter/
+│   │   └── SKILL.md
+│   │
+│   ├── Code_Reviewer/
+│   │   └── SKILL.md
+│   │
+│   └── software-architect/
+│       └── SKILL.md
+│
+├── Writing/
+│   ├── character-creator/
+│   │   └── SKILL.md
+│   │
+│   ├── story-rewriter/
+│   │   └── SKILL.md
+│   │
+│   └── worldbuilding-master/
+│       └── SKILL.md
 │
 └── README.md
 ```
@@ -107,7 +127,7 @@ You can:
 * Improve existing Skills.
 * Fix documentation.
 * Share usage examples.
-* Suggest new categories.
+* Suggest new categories.  
 
 ## 📜 License
 
