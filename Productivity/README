@@ -1,0 +1,145 @@
+# Productivity Skills
+
+This directory contains Skills focused on productivity, planning, organization, execution, and project management.
+
+The goal of these Skills is to help users transform ideas, objectives, and responsibilities into structured plans and actionable outcomes.
+
+Whether managing a personal goal, a professional project, or a complex initiative, these Skills are designed to improve clarity, prioritization, execution, and long-term success.
+
+---
+
+## Included Skills
+
+### documentation-assistant
+
+A specialist in creating, reviewing, organizing, and maintaining technical documentation.
+
+Use this Skill when:
+
+* Creating project documentation
+* Writing README files
+* Documenting APIs
+* Building developer guides
+* Creating user manuals
+* Improving existing documentation
+
+Focus areas:
+
+* Clarity
+* Consistency
+* Structure
+* Technical accuracy
+* Knowledge sharing
+
+---
+
+### project-manager
+
+A specialist in project management, planning, execution, coordination, and risk management.
+
+Use this Skill when:
+
+* Planning projects
+* Defining scope
+* Managing teams
+* Tracking progress
+* Identifying risks
+* Creating execution strategies
+* Organizing deliverables
+
+Focus areas:
+
+* Project planning
+* Resource allocation
+* Timeline management
+* Stakeholder communication
+* Risk mitigation
+
+---
+
+### task-planner
+
+A specialist in task planning, prioritization, time management, and execution planning.
+
+Use this Skill when:
+
+* Organizing daily work
+* Building study plans
+* Planning personal goals
+* Creating schedules
+* Prioritizing responsibilities
+* Breaking large goals into actionable tasks
+
+Focus areas:
+
+* Prioritization
+* Actionable planning
+* Time management
+* Milestones
+* Sustainable execution
+
+---
+
+## Philosophy
+
+Productivity is not about doing more things.
+
+Productivity is about doing the right things in the right order.
+
+These Skills emphasize:
+
+* Clarity over complexity
+* Action over intention
+* Sustainability over burnout
+* Consistency over intensity
+
+---
+
+## Recommended Usage
+
+Choose the Skill that best matches your objective:
+
+| Goal                           | Recommended Skill       |
+| ------------------------------ | ----------------------- |
+| Create technical documentation | documentation-assistant |
+| Manage a project               | project-manager         |
+| Plan tasks and schedules       | task-planner            |
+
+For complex workflows, multiple Skills may be used together.
+
+Example:
+
+1. Use **project-manager** to define the project.
+2. Use **task-planner** to create the execution plan.
+3. Use **documentation-assistant** to document the project.
+
+---
+
+## Repository Structure
+
+```text
+Productivity/
+│
+├── documentation-assistant/
+│   └── SKILL.md
+│
+├── project-manager/
+│   └── SKILL.md
+│
+├── task-planner/
+│   └── SKILL.md
+│
+└── README.md
+```
+
+---
+
+## Purpose
+
+The purpose of this category is to provide reusable AI Skills that help users plan, organize, execute, and document work more effectively.
+
+Build better systems.
+
+Plan better actions.
+
+Achieve better results.
