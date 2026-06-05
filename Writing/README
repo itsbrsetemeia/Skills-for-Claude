@@ -1,0 +1,191 @@
+# Writing Skills
+
+This directory contains Skills focused on storytelling, creative writing, worldbuilding, narrative development, and character creation.
+
+The purpose of these Skills is to help writers create richer stories, more compelling characters, immersive worlds, and stronger narratives.
+
+Whether you're writing novels, comics, games, screenplays, animations, or shared universes, these Skills are designed to support every stage of the creative process.
+
+---
+
+## Included Skills
+
+### character-creator
+
+A specialist in creating deep, memorable, and believable characters.
+
+Use this Skill when:
+
+* Creating protagonists
+* Creating villains
+* Designing anti-heroes
+* Building supporting characters
+* Developing existing characters
+* Creating character teams
+
+Focus areas:
+
+* Personality
+* Motivation
+* Psychology
+* Backstory
+* Relationships
+* Character growth
+
+---
+
+### story-rewriter
+
+A specialist in rewriting scenes, chapters, and narratives to improve emotional impact, atmosphere, pacing, and immersion.
+
+Use this Skill when:
+
+* Improving story passages
+* Enhancing emotional scenes
+* Making writing more cinematic
+* Increasing immersion
+* Improving narrative flow
+* Strengthening dialogue
+
+Focus areas:
+
+* Atmosphere
+* Emotion
+* Pacing
+* Description
+* Narrative impact
+* Readability
+
+---
+
+### worldbuilding-master
+
+A specialist in creating rich, coherent, and expansive fictional worlds.
+
+Use this Skill when:
+
+* Creating fictional universes
+* Building fantasy worlds
+* Developing science fiction settings
+* Designing civilizations
+* Expanding lore
+* Creating shared universes
+
+Focus areas:
+
+* History
+* Cultures
+* Politics
+* Religions
+* Geography
+* Cosmology
+
+---
+
+## Philosophy
+
+Stories are more than plots.
+
+Great stories emerge when:
+
+* Characters feel alive.
+* Worlds feel real.
+* Conflicts feel meaningful.
+* Emotions feel authentic.
+
+These Skills focus on creating depth, coherence, and emotional resonance.
+
+---
+
+## Recommended Usage
+
+Choose the Skill that best matches your objective:
+
+| Goal                     | Recommended Skill    |
+| ------------------------ | -------------------- |
+| Create a character       | character-creator    |
+| Improve a scene or story | story-rewriter       |
+| Build a fictional world  | worldbuilding-master |
+
+For maximum creative depth, these Skills are designed to work together.
+
+Example workflow:
+
+1. Use **worldbuilding-master** to create the universe.
+2. Use **character-creator** to populate it with memorable characters.
+3. Use **story-rewriter** to enhance the narrative.
+
+---
+
+## Repository Structure
+
+```text
+Writing/
+│
+├── character-creator/
+│   └── SKILL.md
+│
+├── story-rewriter/
+│   └── SKILL.md
+│
+├── worldbuilding-master/
+│   └── SKILL.md
+│
+└── README.md
+```
+
+---
+
+## Who Is This For?
+
+These Skills are designed for:
+
+* Novelists
+* Comic Book Writers
+* Screenwriters
+* Game Writers
+* Dungeon Masters
+* Worldbuilders
+* Indie Creators
+* Creative Hobbyists
+
+Whether creating a short story or a multimedia franchise, these Skills help transform ideas into immersive experiences.
+
+---
+
+## Creative Principles
+
+The Skills in this category promote:
+
+* Depth over clichés
+* Consistency over randomness
+* Emotion over exposition
+* Meaningful conflict
+* Memorable characters
+* Living worlds
+
+Every element should contribute to a richer storytelling experience.
+
+---
+
+## Long-Term Vision
+
+The goal is not simply to create stories.
+
+The goal is to create worlds that readers want to return to, characters they remember for years, and narratives that leave a lasting impact.
+
+A great fictional universe should feel alive even when the protagonists are absent.
+
+A great character should feel like they existed before the story began and will continue existing after it ends.
+
+---
+
+## Purpose
+
+The goal of this category is to provide reusable AI Skills that help creators build stronger stories, richer worlds, and unforgettable characters.
+
+Create better stories.
+
+Build living worlds.
+
+Bring imagination to life.
