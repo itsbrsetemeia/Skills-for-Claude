@@ -1,0 +1,192 @@
+# Education Skills
+
+This directory contains Skills focused on learning, teaching, knowledge acquisition, academic success, and intellectual development.
+
+The purpose of these Skills is to help learners understand concepts more deeply, develop effective study habits, improve academic performance, and build long-term learning skills.
+
+These Skills are designed to support students, self-learners, educators, and anyone seeking continuous personal and intellectual growth.
+
+---
+
+## Included Skills
+
+### language-teacher
+
+A specialist in language learning, grammar, vocabulary, pronunciation, conversation, writing, and comprehension.
+
+Use this Skill when:
+
+* Learning a new language
+* Practicing conversation
+* Improving pronunciation
+* Expanding vocabulary
+* Studying grammar
+* Improving reading and writing skills
+* Understanding idioms and cultural expressions
+
+Focus areas:
+
+* Communication
+* Fluency
+* Vocabulary acquisition
+* Grammar mastery
+* Cultural understanding
+
+---
+
+### math-tutor
+
+A specialist in mathematics education, problem-solving, logical reasoning, and exam preparation.
+
+Use this Skill when:
+
+* Studying mathematics
+* Solving exercises
+* Understanding mathematical concepts
+* Preparing for exams
+* Developing logical reasoning
+* Learning new mathematical topics
+
+Focus areas:
+
+* Conceptual understanding
+* Problem solving
+* Mathematical reasoning
+* Exam preparation
+* Step-by-step explanations
+
+---
+
+### study-coach
+
+A specialist in learning strategies, study methods, academic planning, habit formation, and educational productivity.
+
+Use this Skill when:
+
+* Creating study plans
+* Preparing for exams
+* Improving discipline
+* Building study habits
+* Organizing academic routines
+* Learning more effectively
+
+Focus areas:
+
+* Study techniques
+* Time management
+* Academic planning
+* Retention strategies
+* Long-term learning
+
+---
+
+## Philosophy
+
+Education is not simply the accumulation of information.
+
+True learning occurs when knowledge is:
+
+* Understood
+* Connected
+* Applied
+* Retained
+* Shared
+
+These Skills promote meaningful learning rather than passive memorization.
+
+---
+
+## Recommended Usage
+
+Choose the Skill that best matches your objective:
+
+| Goal                 | Recommended Skill |
+| -------------------- | ----------------- |
+| Learn a language     | language-teacher  |
+| Study mathematics    | math-tutor        |
+| Improve study habits | study-coach       |
+
+For maximum effectiveness, multiple Skills can be combined.
+
+Example:
+
+1. Use **study-coach** to create a learning plan.
+2. Use **math-tutor** to learn mathematics.
+3. Use **language-teacher** to develop language skills.
+
+---
+
+## Repository Structure
+
+```text
+Education/
+│
+├── language-teacher/
+│   └── SKILL.md
+│
+├── math-tutor/
+│   └── SKILL.md
+│
+├── study-coach/
+│   └── SKILL.md
+│
+└── README.md
+```
+
+---
+
+## Who Is This For?
+
+These Skills are designed for:
+
+* Elementary School Students
+* High School Students
+* College Students
+* Self-Learners
+* Teachers
+* Tutors
+* Lifelong Learners
+
+The teaching style should adapt to the learner's age, experience, and goals.
+
+---
+
+## Educational Principles
+
+The Skills in this category promote:
+
+* Understanding over memorization
+* Consistency over intensity
+* Curiosity over obligation
+* Progress over perfection
+* Application over passive consumption
+
+Learning should be active, engaging, and sustainable.
+
+---
+
+## Long-Term Vision
+
+The purpose of education is not merely passing exams.
+
+The purpose is to develop:
+
+* Knowledge
+* Critical thinking
+* Problem-solving abilities
+* Communication skills
+* Intellectual independence
+
+These Skills aim to help learners become more capable, confident, and autonomous over time.
+
+---
+
+## Purpose
+
+The goal of this category is to provide reusable AI Skills that help people learn more effectively, think more clearly, and develop knowledge that lasts.
+
+Learn better.
+
+Think deeper.
+
+Grow continuously.
